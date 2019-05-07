@@ -1,22 +1,11 @@
 ﻿using UnityEditor;
 
-namespace Editor
+
+class JenkinsPerformBuild
 {
-	public class JenkinsPerformBuild 
+	static void PerformBuild()
 	{
-		public static void PerformBuild()
-		{
-			var scenes = new[] {"Assets/Main.unity"};
-			BuildPipeline.BuildPlayer(scenes, "iOSBuild", BuildTarget.iOS, BuildOptions.None);
-		}
-		// Use this for initialization
-		void Start () {
-		
-		}
-	
-		// Update is called once per frame
-		void Update () {
-		
-		}
+		var scenes = new[] {"Assets/Main.unity"};
+		BuildPipeline.BuildPlayer(scenes, "iOSBuild", BuildTarget.iOS, BuildOptions.None);
 	}
 }
