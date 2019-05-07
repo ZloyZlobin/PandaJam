@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="/7dcbfbb6" t="IncludeRecursive" />
+    <e p="/app" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_PandaJam.106157743.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/Scripts" t="Include">
+        <e p="Behaviours" t="Include">
+          <e p="BombBehaviour.cs" t="Include" />
+          <e p="BrickBehaviour.cs" t="Include" />
+          <e p="ColumnBehaviour.cs" t="Include" />
+          <e p="IceBehaviour.cs" t="Include" />
+          <e p="LockedBehaviour.cs" t="Include" />
+          <e p="RowBehaviour.cs" t="Include" />
+          <e p="TurnBehaviour.cs" t="Include" />
+        </e>
+        <e p="Bricks" t="Include">
+          <e p="Brick.cs" t="Include" />
+          <e p="BrickInfo.cs" t="Include" />
+          <e p="BrickPos.cs" t="Include" />
+          <e p="BrickType.cs" t="Include" />
+        </e>
+        <e p="BricksFactory.cs" t="Include" />
+        <e p="Editor" t="Include">
+          <e p="JenkinsPerformBuild.cs" t="Include" />
+        </e>
+        <e p="GameState" t="Include">
+          <e p="GameState.cs" t="Include" />
+          <e p="GameStateController.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="ResourceInfo.cs" t="Include" />
+          <e p="ResourceType.cs" t="Include" />
+        </e>
+        <e p="Table.cs" t="Include" />
+        <e p="UI" t="Include">
+          <e p="GameResultUIController.cs" t="Include" />
+          <e p="GameStateUIController.cs" t="Include" />
+          <e p="TableUIController.cs" t="Include" />
+          <e p="UIController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PandaJam.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
